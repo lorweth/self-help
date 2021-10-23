@@ -1,5 +1,2 @@
-# Code cho những chức năng lặt vặt cải thiện năng suất làm việc
+# Ghi chú về 1 số vấn đề cần nghiên cứu
 
-## Các chức năng
-
-1. Tạo truy vấn insert với nội dung nhập vào.
